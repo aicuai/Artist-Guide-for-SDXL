@@ -1,1 +1,5 @@
 https://github.com/hako-mikan/sd-webui-regional-prompter
+https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper
+https://github.com/Vetchems/sd-civitai-browser
+https://github.com/huchenlei/sd-webui-openpose-editor
