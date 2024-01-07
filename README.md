@@ -4,4 +4,10 @@
 
 ![](Fooocus-jp-2024-01-08.png)
 
+![](Fooocus-jp-outputs-2024-01-08.png)
+
+
+## AUTOMATIC1111/Stable Diffusion Web UI on Colab
+
+
 
