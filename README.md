@@ -2,6 +2,11 @@
 
 ここはAICUのコミュニティおよび商業出版を予定している書籍のサポートリポジトリです。
 
+news [画像生成AI　Stable Diffusion スタートガイド](https://j.aicu.ai/SBXL) として発売されます！
+
+詳細は[こちら](https://corp.aicu.ai/ja/sbxl)
+
+
 
 ## Fooocus 日本語アニメ特化版
 
